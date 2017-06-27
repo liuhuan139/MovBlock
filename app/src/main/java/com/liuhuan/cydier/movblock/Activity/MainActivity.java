@@ -12,7 +12,7 @@ import android.view.animation.ScaleAnimation;
 import com.liuhuan.cydier.movblock.Iterface.IStartAnimation;
 import com.liuhuan.cydier.movblock.Layout.BallContainerLayout;
 import com.liuhuan.cydier.movblock.R;
-
+//I wanna do songthing
 public class MainActivity extends ActionBarActivity implements IStartAnimation {
     private ScaleAnimation scaAnimation;
 
